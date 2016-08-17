@@ -1,0 +1,10 @@
+c:\users\fred\documents\visual studio 2015\Projects\FCamara.ProximaParada\FCamara.ProximaParada.Domain\bin\Debug\FCamara.ProximaParada.Domain.dll
+c:\users\fred\documents\visual studio 2015\Projects\FCamara.ProximaParada\FCamara.ProximaParada.Domain\bin\Debug\FCamara.ProximaParada.Domain.pdb
+c:\users\fred\documents\visual studio 2015\Projects\FCamara.ProximaParada\FCamara.ProximaParada.Domain\obj\Debug\FCamara.ProximaParada.Domain.csprojResolveAssemblyReference.cache
+c:\users\fred\documents\visual studio 2015\Projects\FCamara.ProximaParada\FCamara.ProximaParada.Domain\obj\Debug\FCamara.ProximaParada.Domain.dll
+c:\users\fred\documents\visual studio 2015\Projects\FCamara.ProximaParada\FCamara.ProximaParada.Domain\obj\Debug\FCamara.ProximaParada.Domain.pdb
+D:\Repositorio\Entrevista\FCamara.ProximaParada\FCamara.ProximaParada.Domain\bin\Debug\FCamara.ProximaParada.Domain.dll
+D:\Repositorio\Entrevista\FCamara.ProximaParada\FCamara.ProximaParada.Domain\bin\Debug\FCamara.ProximaParada.Domain.pdb
+D:\Repositorio\Entrevista\FCamara.ProximaParada\FCamara.ProximaParada.Domain\obj\Debug\FCamara.ProximaParada.Domain.csprojResolveAssemblyReference.cache
+D:\Repositorio\Entrevista\FCamara.ProximaParada\FCamara.ProximaParada.Domain\obj\Debug\FCamara.ProximaParada.Domain.dll
+D:\Repositorio\Entrevista\FCamara.ProximaParada\FCamara.ProximaParada.Domain\obj\Debug\FCamara.ProximaParada.Domain.pdb

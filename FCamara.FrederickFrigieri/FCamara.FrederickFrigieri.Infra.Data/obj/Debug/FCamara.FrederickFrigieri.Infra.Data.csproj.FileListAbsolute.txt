@@ -1,0 +1,14 @@
+D:\Repositorio\Entrevista\FCamara.FrederickFrigieri\FCamara.FrederickFrigieri.Infra.Data\bin\Debug\FCamara.FrederickFrigieri.Infra.Data.dll.config
+D:\Repositorio\Entrevista\FCamara.FrederickFrigieri\FCamara.FrederickFrigieri.Infra.Data\bin\Debug\FCamara.FrederickFrigieri.Infra.Data.dll
+D:\Repositorio\Entrevista\FCamara.FrederickFrigieri\FCamara.FrederickFrigieri.Infra.Data\bin\Debug\FCamara.FrederickFrigieri.Infra.Data.pdb
+D:\Repositorio\Entrevista\FCamara.FrederickFrigieri\FCamara.FrederickFrigieri.Infra.Data\bin\Debug\EntityFramework.dll
+D:\Repositorio\Entrevista\FCamara.FrederickFrigieri\FCamara.FrederickFrigieri.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Repositorio\Entrevista\FCamara.FrederickFrigieri\FCamara.FrederickFrigieri.Infra.Data\bin\Debug\FCamara.FrederickFrigieri.Domain.dll
+D:\Repositorio\Entrevista\FCamara.FrederickFrigieri\FCamara.FrederickFrigieri.Infra.Data\bin\Debug\FCamara.FrederickFrigieri.Domain.pdb
+D:\Repositorio\Entrevista\FCamara.FrederickFrigieri\FCamara.FrederickFrigieri.Infra.Data\bin\Debug\EntityFramework.xml
+D:\Repositorio\Entrevista\FCamara.FrederickFrigieri\FCamara.FrederickFrigieri.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Repositorio\Entrevista\FCamara.FrederickFrigieri\FCamara.FrederickFrigieri.Infra.Data\obj\Debug\FCamara.FrederickFrigieri.Infra.Data.csprojResolveAssemblyReference.cache
+D:\Repositorio\Entrevista\FCamara.FrederickFrigieri\FCamara.FrederickFrigieri.Infra.Data\obj\Debug\FCamara.FrederickFrigieri.Infra.Data.dll
+D:\Repositorio\Entrevista\FCamara.FrederickFrigieri\FCamara.FrederickFrigieri.Infra.Data\obj\Debug\FCamara.FrederickFrigieri.Infra.Data.pdb
+D:\Repositorio\Entrevista\FCamara.FrederickFrigieri\FCamara.FrederickFrigieri.Infra.Data\obj\Debug\FCamara.FrederickFrigieri.Infra.Data.Migrations.init.resources
+D:\Repositorio\Entrevista\FCamara.FrederickFrigieri\FCamara.FrederickFrigieri.Infra.Data\obj\Debug\FCamara.FrederickFrigieri.Infra.Data.csproj.GenerateResource.Cache

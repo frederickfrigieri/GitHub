@@ -1,0 +1,14 @@
+D:\Repositorio\Entrevista\FCamara.ProximaParada\TesteUnitario\obj\Debug\TesteUnitario.csprojResolveAssemblyReference.cache
+D:\Repositorio\Entrevista\FCamara.ProximaParada\TesteUnitario\bin\Debug\TesteUnitario.dll
+D:\Repositorio\Entrevista\FCamara.ProximaParada\TesteUnitario\bin\Debug\TesteUnitario.pdb
+D:\Repositorio\Entrevista\FCamara.ProximaParada\TesteUnitario\bin\Debug\Castle.Core.dll
+D:\Repositorio\Entrevista\FCamara.ProximaParada\TesteUnitario\bin\Debug\FCamara.ProximaParada.Data.dll
+D:\Repositorio\Entrevista\FCamara.ProximaParada\TesteUnitario\bin\Debug\FCamara.ProximaParada.Domain.dll
+D:\Repositorio\Entrevista\FCamara.ProximaParada\TesteUnitario\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Repositorio\Entrevista\FCamara.ProximaParada\TesteUnitario\bin\Debug\Moq.dll
+D:\Repositorio\Entrevista\FCamara.ProximaParada\TesteUnitario\bin\Debug\FCamara.ProximaParada.Data.pdb
+D:\Repositorio\Entrevista\FCamara.ProximaParada\TesteUnitario\bin\Debug\FCamara.ProximaParada.Domain.pdb
+D:\Repositorio\Entrevista\FCamara.ProximaParada\TesteUnitario\bin\Debug\Castle.Core.xml
+D:\Repositorio\Entrevista\FCamara.ProximaParada\TesteUnitario\bin\Debug\Moq.xml
+D:\Repositorio\Entrevista\FCamara.ProximaParada\TesteUnitario\obj\Debug\TesteUnitario.dll
+D:\Repositorio\Entrevista\FCamara.ProximaParada\TesteUnitario\obj\Debug\TesteUnitario.pdb

@@ -1,0 +1,87 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - DS", "2 - DS", "{684799C4-0BED-48B3-93EB-C37312B1A7CD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Domain", "3 - Domain", "{C29747FC-6F9E-477C-8EBC-27299CF53BDE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - App", "1 - App", "{4685EB50-856A-43B0-A6C0-DF55A3E0869B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Infra", "4 - Infra", "{EF12E40A-5639-4D5C-A3B0-CC84F8441188}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CrossCutting", "CrossCutting", "{3DBA0FF0-1E48-4656-ABFF-C152B18C6076}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{0295B91C-ADA7-44F9-B389-D280F67C57E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FCamara.FrederickFrigieri.Domain", "FCamara.FrederickFrigieri.Domain\FCamara.FrederickFrigieri.Domain.csproj", "{78378908-6A53-4C11-947E-0A3F6660DFEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FCamara.FrederickFrigieri.Infra.Data", "FCamara.FrederickFrigieri.Infra.Data\FCamara.FrederickFrigieri.Infra.Data.csproj", "{DBD8FCEB-FDBF-4E53-995B-2DD136AE8F53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FCamara.FrederickFrigieri.Infra.IoC", "FCamara.FrederickFrigieri.Infra.IoC\FCamara.FrederickFrigieri.Infra.IoC.csproj", "{6A15033D-6598-45E4-83B7-D3AE8448C22D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FCamara.FrederickFrigieri.DS.Api", "FCamara.FrederickFrigieri.DS.Api\FCamara.FrederickFrigieri.DS.Api.csproj", "{84DD5D68-5806-4D80-9BAC-6500CF59105D}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "FCamara.FrederickFrigieri.App.Web(1)", "FCamara.FrederickFrigieri.App.Web\", "{86F25BDB-5406-4C7B-98D9-A82366AA04C3}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_58625"
+		Debug.AspNetCompiler.PhysicalPath = "FCamara.FrederickFrigieri.App.Web\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58625\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_58625"
+		Release.AspNetCompiler.PhysicalPath = "FCamara.FrederickFrigieri.App.Web\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58625\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "58625"
+		SlnRelativePath = "FCamara.FrederickFrigieri.App.Web\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78378908-6A53-4C11-947E-0A3F6660DFEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78378908-6A53-4C11-947E-0A3F6660DFEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78378908-6A53-4C11-947E-0A3F6660DFEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78378908-6A53-4C11-947E-0A3F6660DFEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBD8FCEB-FDBF-4E53-995B-2DD136AE8F53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBD8FCEB-FDBF-4E53-995B-2DD136AE8F53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBD8FCEB-FDBF-4E53-995B-2DD136AE8F53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBD8FCEB-FDBF-4E53-995B-2DD136AE8F53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A15033D-6598-45E4-83B7-D3AE8448C22D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A15033D-6598-45E4-83B7-D3AE8448C22D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A15033D-6598-45E4-83B7-D3AE8448C22D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A15033D-6598-45E4-83B7-D3AE8448C22D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84DD5D68-5806-4D80-9BAC-6500CF59105D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84DD5D68-5806-4D80-9BAC-6500CF59105D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84DD5D68-5806-4D80-9BAC-6500CF59105D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84DD5D68-5806-4D80-9BAC-6500CF59105D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86F25BDB-5406-4C7B-98D9-A82366AA04C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F25BDB-5406-4C7B-98D9-A82366AA04C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86F25BDB-5406-4C7B-98D9-A82366AA04C3}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F25BDB-5406-4C7B-98D9-A82366AA04C3}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3DBA0FF0-1E48-4656-ABFF-C152B18C6076} = {EF12E40A-5639-4D5C-A3B0-CC84F8441188}
+		{0295B91C-ADA7-44F9-B389-D280F67C57E9} = {EF12E40A-5639-4D5C-A3B0-CC84F8441188}
+		{78378908-6A53-4C11-947E-0A3F6660DFEC} = {C29747FC-6F9E-477C-8EBC-27299CF53BDE}
+		{DBD8FCEB-FDBF-4E53-995B-2DD136AE8F53} = {0295B91C-ADA7-44F9-B389-D280F67C57E9}
+		{6A15033D-6598-45E4-83B7-D3AE8448C22D} = {3DBA0FF0-1E48-4656-ABFF-C152B18C6076}
+		{84DD5D68-5806-4D80-9BAC-6500CF59105D} = {684799C4-0BED-48B3-93EB-C37312B1A7CD}
+		{86F25BDB-5406-4C7B-98D9-A82366AA04C3} = {4685EB50-856A-43B0-A6C0-DF55A3E0869B}
+	EndGlobalSection
+EndGlobal

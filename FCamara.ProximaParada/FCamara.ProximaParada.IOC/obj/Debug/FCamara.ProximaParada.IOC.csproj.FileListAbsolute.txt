@@ -1,0 +1,28 @@
+c:\users\fred\documents\visual studio 2015\Projects\FCamara.ProximaParada\FCamara.ProximaParada.IOC\bin\Debug\FCamara.ProximaParada.IOC.dll
+c:\users\fred\documents\visual studio 2015\Projects\FCamara.ProximaParada\FCamara.ProximaParada.IOC\bin\Debug\FCamara.ProximaParada.IOC.pdb
+c:\users\fred\documents\visual studio 2015\Projects\FCamara.ProximaParada\FCamara.ProximaParada.IOC\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+c:\users\fred\documents\visual studio 2015\Projects\FCamara.ProximaParada\FCamara.ProximaParada.IOC\bin\Debug\SimpleInjector.dll
+c:\users\fred\documents\visual studio 2015\Projects\FCamara.ProximaParada\FCamara.ProximaParada.IOC\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+c:\users\fred\documents\visual studio 2015\Projects\FCamara.ProximaParada\FCamara.ProximaParada.IOC\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+c:\users\fred\documents\visual studio 2015\Projects\FCamara.ProximaParada\FCamara.ProximaParada.IOC\bin\Debug\SimpleInjector.xml
+c:\users\fred\documents\visual studio 2015\Projects\FCamara.ProximaParada\FCamara.ProximaParada.IOC\obj\Debug\FCamara.ProximaParada.IOC.csprojResolveAssemblyReference.cache
+c:\users\fred\documents\visual studio 2015\Projects\FCamara.ProximaParada\FCamara.ProximaParada.IOC\obj\Debug\FCamara.ProximaParada.IOC.dll
+c:\users\fred\documents\visual studio 2015\Projects\FCamara.ProximaParada\FCamara.ProximaParada.IOC\obj\Debug\FCamara.ProximaParada.IOC.pdb
+c:\users\fred\documents\visual studio 2015\Projects\FCamara.ProximaParada\FCamara.ProximaParada.IOC\bin\Debug\FCamara.ProximaParada.Data.dll
+c:\users\fred\documents\visual studio 2015\Projects\FCamara.ProximaParada\FCamara.ProximaParada.IOC\bin\Debug\FCamara.ProximaParada.Domain.dll
+c:\users\fred\documents\visual studio 2015\Projects\FCamara.ProximaParada\FCamara.ProximaParada.IOC\bin\Debug\FCamara.ProximaParada.Data.pdb
+c:\users\fred\documents\visual studio 2015\Projects\FCamara.ProximaParada\FCamara.ProximaParada.IOC\bin\Debug\FCamara.ProximaParada.Domain.pdb
+D:\Repositorio\Entrevista\FCamara.ProximaParada\FCamara.ProximaParada.IOC\bin\Debug\FCamara.ProximaParada.IOC.dll
+D:\Repositorio\Entrevista\FCamara.ProximaParada\FCamara.ProximaParada.IOC\bin\Debug\FCamara.ProximaParada.IOC.pdb
+D:\Repositorio\Entrevista\FCamara.ProximaParada\FCamara.ProximaParada.IOC\bin\Debug\FCamara.ProximaParada.Data.dll
+D:\Repositorio\Entrevista\FCamara.ProximaParada\FCamara.ProximaParada.IOC\bin\Debug\FCamara.ProximaParada.Domain.dll
+D:\Repositorio\Entrevista\FCamara.ProximaParada\FCamara.ProximaParada.IOC\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Repositorio\Entrevista\FCamara.ProximaParada\FCamara.ProximaParada.IOC\bin\Debug\SimpleInjector.dll
+D:\Repositorio\Entrevista\FCamara.ProximaParada\FCamara.ProximaParada.IOC\bin\Debug\FCamara.ProximaParada.Data.pdb
+D:\Repositorio\Entrevista\FCamara.ProximaParada\FCamara.ProximaParada.IOC\bin\Debug\FCamara.ProximaParada.Domain.pdb
+D:\Repositorio\Entrevista\FCamara.ProximaParada\FCamara.ProximaParada.IOC\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Repositorio\Entrevista\FCamara.ProximaParada\FCamara.ProximaParada.IOC\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Repositorio\Entrevista\FCamara.ProximaParada\FCamara.ProximaParada.IOC\bin\Debug\SimpleInjector.xml
+D:\Repositorio\Entrevista\FCamara.ProximaParada\FCamara.ProximaParada.IOC\obj\Debug\FCamara.ProximaParada.IOC.csprojResolveAssemblyReference.cache
+D:\Repositorio\Entrevista\FCamara.ProximaParada\FCamara.ProximaParada.IOC\obj\Debug\FCamara.ProximaParada.IOC.dll
+D:\Repositorio\Entrevista\FCamara.ProximaParada\FCamara.ProximaParada.IOC\obj\Debug\FCamara.ProximaParada.IOC.pdb

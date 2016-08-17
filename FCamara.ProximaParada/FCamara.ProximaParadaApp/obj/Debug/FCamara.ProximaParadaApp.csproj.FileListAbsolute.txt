@@ -1,0 +1,17 @@
+D:\Repositorio\Entrevista\FCamara.ProximaParada\FCamara.ProximaParadaApp\bin\Debug\FCamara.ProximaParadaApp.exe.config
+D:\Repositorio\Entrevista\FCamara.ProximaParada\FCamara.ProximaParadaApp\bin\Debug\FCamara.ProximaParadaApp.exe
+D:\Repositorio\Entrevista\FCamara.ProximaParada\FCamara.ProximaParadaApp\bin\Debug\FCamara.ProximaParadaApp.pdb
+D:\Repositorio\Entrevista\FCamara.ProximaParada\FCamara.ProximaParadaApp\bin\Debug\FCamara.ProximaParada.Data.dll
+D:\Repositorio\Entrevista\FCamara.ProximaParada\FCamara.ProximaParadaApp\bin\Debug\FCamara.ProximaParada.Domain.dll
+D:\Repositorio\Entrevista\FCamara.ProximaParada\FCamara.ProximaParadaApp\bin\Debug\FCamara.ProximaParada.IOC.dll
+D:\Repositorio\Entrevista\FCamara.ProximaParada\FCamara.ProximaParadaApp\bin\Debug\SimpleInjector.dll
+D:\Repositorio\Entrevista\FCamara.ProximaParada\FCamara.ProximaParadaApp\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Repositorio\Entrevista\FCamara.ProximaParada\FCamara.ProximaParadaApp\bin\Debug\FCamara.ProximaParada.Data.pdb
+D:\Repositorio\Entrevista\FCamara.ProximaParada\FCamara.ProximaParadaApp\bin\Debug\FCamara.ProximaParada.Domain.pdb
+D:\Repositorio\Entrevista\FCamara.ProximaParada\FCamara.ProximaParadaApp\bin\Debug\FCamara.ProximaParada.IOC.pdb
+D:\Repositorio\Entrevista\FCamara.ProximaParada\FCamara.ProximaParadaApp\bin\Debug\SimpleInjector.xml
+D:\Repositorio\Entrevista\FCamara.ProximaParada\FCamara.ProximaParadaApp\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Repositorio\Entrevista\FCamara.ProximaParada\FCamara.ProximaParadaApp\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Repositorio\Entrevista\FCamara.ProximaParada\FCamara.ProximaParadaApp\obj\Debug\FCamara.ProximaParadaApp.csprojResolveAssemblyReference.cache
+D:\Repositorio\Entrevista\FCamara.ProximaParada\FCamara.ProximaParadaApp\obj\Debug\FCamara.ProximaParadaApp.exe
+D:\Repositorio\Entrevista\FCamara.ProximaParada\FCamara.ProximaParadaApp\obj\Debug\FCamara.ProximaParadaApp.pdb

@@ -1,0 +1,79 @@
+﻿<!DOCTYPE html>
+<html ng-app="app">
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+
+    <!-- Bootstrap -->
+    <link href="content/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="content/css/bootstrap-theme.min.css" rel="stylesheet" />
+    <!--<script src="content/js/bootstrap.min.js"></script>-->
+    
+    <!-- AngularJs -->
+    <script src="scripts/angular/angular.min.js" type="text/javascript"></script>
+    <script src="scripts/angular/ngStorage.js"></script>
+
+    <!-- AngularJs App -->
+    <script src="app/app.js"></script>
+    <script src="app/config/app.const.js"></script>
+
+    <!-- Controllers -->
+    <script src="app/controllers/autenticarController.js"></script>
+    <script src="app/controllers/produtoController.js"></script>
+
+    <!-- Services -->
+    <script src="app/services/autenticarService.js"></script>
+    <script src="app/services/produtoService.js"></script>
+</head>
+<body>
+    <div class="jumbotron">
+        <div class="container">
+
+            <div class="row">
+                <div class="col-md-12" ng-controller="AutenticarControler">
+                    <div class="col-md-6">
+                        <button id="Logar" class="btn btn-default" ng-click="GerarToken();">Gerar Token</button>
+                    </div>
+                    <div class="col-md-6" ng-hide="token == ''">
+                        <span>{{"token: " + token}}</span><br />
+                        <span>{{"expire: " + expire}}</span>
+                    </div>
+                </div>
+            </div>
+            <br />
+
+            <div class="row" ng-controller="ProdutoController">
+                <div class="col-md-12">
+                    <div ng-hide="produtos == null">
+                        <h3>Lista de Produtos</h3>
+                        <table class="table table-striped">
+                            <tr>
+                                <th>#</th>
+                                <th>Nome</th>
+                                <th>Descricao</th>
+                                <th>Preço</th>
+                            </tr>
+                            <tr ng-repeat="produto in produtos">
+                                <td ng-bind="produto.id"></td>
+                                <td ng-bind="produto.nome"></td>
+                                <td ng-bind="produto.descricao"></td>
+                                <td ng-bind="produto.preco"></td>
+                            </tr>
+                        </table>
+                    </div>
+                    <div class="col-md-6">
+                        <button ng-click="carregarProdutos();" class="btn btn-info">
+                        Carregar Produtos</button>
+                    </div>
+                    <div class="col-mod-6" ng-show="messageError != ''">
+                        {{messageError}}
+                    </div>
+                </div>
+                
+                
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

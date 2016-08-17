@@ -1,0 +1,18 @@
+c:\users\fred\documents\visual studio 2015\Projects\FCamara.ProximaParada\FCamara.ProximaParada.Data\bin\Debug\FCamara.ProximaParada.Data.dll
+c:\users\fred\documents\visual studio 2015\Projects\FCamara.ProximaParada\FCamara.ProximaParada.Data\bin\Debug\FCamara.ProximaParada.Data.pdb
+c:\users\fred\documents\visual studio 2015\Projects\FCamara.ProximaParada\FCamara.ProximaParada.Data\bin\Debug\FCamara.ProximaParada.Domain.dll
+c:\users\fred\documents\visual studio 2015\Projects\FCamara.ProximaParada\FCamara.ProximaParada.Data\bin\Debug\FCamara.ProximaParada.Domain.pdb
+c:\users\fred\documents\visual studio 2015\Projects\FCamara.ProximaParada\FCamara.ProximaParada.Data\obj\Debug\FCamara.ProximaParada.Data.csprojResolveAssemblyReference.cache
+c:\users\fred\documents\visual studio 2015\Projects\FCamara.ProximaParada\FCamara.ProximaParada.Data\obj\Debug\FCamara.ProximaParada.Data.dll
+c:\users\fred\documents\visual studio 2015\Projects\FCamara.ProximaParada\FCamara.ProximaParada.Data\obj\Debug\FCamara.ProximaParada.Data.pdb
+c:\users\fred\documents\visual studio 2015\Projects\FCamara.ProximaParada\FCamara.ProximaParada.Data\bin\Debug\Newtonsoft.Json.dll
+c:\users\fred\documents\visual studio 2015\Projects\FCamara.ProximaParada\FCamara.ProximaParada.Data\bin\Debug\Newtonsoft.Json.xml
+D:\Repositorio\Entrevista\FCamara.ProximaParada\FCamara.ProximaParada.Data\bin\Debug\FCamara.ProximaParada.Data.dll
+D:\Repositorio\Entrevista\FCamara.ProximaParada\FCamara.ProximaParada.Data\bin\Debug\FCamara.ProximaParada.Data.pdb
+D:\Repositorio\Entrevista\FCamara.ProximaParada\FCamara.ProximaParada.Data\bin\Debug\FCamara.ProximaParada.Domain.dll
+D:\Repositorio\Entrevista\FCamara.ProximaParada\FCamara.ProximaParada.Data\bin\Debug\Newtonsoft.Json.dll
+D:\Repositorio\Entrevista\FCamara.ProximaParada\FCamara.ProximaParada.Data\bin\Debug\FCamara.ProximaParada.Domain.pdb
+D:\Repositorio\Entrevista\FCamara.ProximaParada\FCamara.ProximaParada.Data\bin\Debug\Newtonsoft.Json.xml
+D:\Repositorio\Entrevista\FCamara.ProximaParada\FCamara.ProximaParada.Data\obj\Debug\FCamara.ProximaParada.Data.csprojResolveAssemblyReference.cache
+D:\Repositorio\Entrevista\FCamara.ProximaParada\FCamara.ProximaParada.Data\obj\Debug\FCamara.ProximaParada.Data.dll
+D:\Repositorio\Entrevista\FCamara.ProximaParada\FCamara.ProximaParada.Data\obj\Debug\FCamara.ProximaParada.Data.pdb

@@ -1,0 +1,4 @@
+D:\Repositorio\Entrevista\FCamara.FrederickFrigieri\FCamara.FrederickFrigieri.Domain\bin\Debug\FCamara.FrederickFrigieri.Domain.dll
+D:\Repositorio\Entrevista\FCamara.FrederickFrigieri\FCamara.FrederickFrigieri.Domain\bin\Debug\FCamara.FrederickFrigieri.Domain.pdb
+D:\Repositorio\Entrevista\FCamara.FrederickFrigieri\FCamara.FrederickFrigieri.Domain\obj\Debug\FCamara.FrederickFrigieri.Domain.dll
+D:\Repositorio\Entrevista\FCamara.FrederickFrigieri\FCamara.FrederickFrigieri.Domain\obj\Debug\FCamara.FrederickFrigieri.Domain.pdb
